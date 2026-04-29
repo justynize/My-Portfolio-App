@@ -5,12 +5,6 @@ const Home = () => {
   return (
     <div>
       <Navbar />
-      <ul>
-        <li>Home</li>
-        <li>About</li>
-        <li>Project</li>
-        <li>Contact</li>
-      </ul>
     </div>
   )
 }
